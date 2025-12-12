@@ -40,7 +40,8 @@ The tokenizer learns meaningful subword units directly from text and provides ef
 
 Compression ratio tells how efficiently text is tokenized:
 
-{compression_ratio} = \frac{\text{total characters}}{\text{total tokens}}
+The compression ratio can be defined by the formula $\text{compression\_ratio} = \frac{\text{total characters}}{\text{total tokens}}$.
+
 
 
 A ratio of **3.75** means:
