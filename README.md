@@ -20,9 +20,9 @@ The tokenizer learns meaningful subword units directly from text and provides ef
 ## 🎥 Demo
 
 
-```
+
 ![Demo](https://github.com/SXD390/Tokenizer_primitive_BPE_Kannada/blob/main/DATA/util/KN_BPE_Tokenizer_DEMO.gif)
-```
+
 
 ---
 
