@@ -40,9 +40,8 @@ The tokenizer learns meaningful subword units directly from text and provides ef
 
 Compression ratio tells how efficiently text is tokenized:
 
-[
-\text{compression_ratio} = \frac{\text{total characters}}{\text{total tokens}}
-]
+{compression_ratio} = \frac{\text{total characters}}{\text{total tokens}}
+
 
 A ratio of **3.75** means:
 **Each token represents 3.75 original characters on average** → excellent efficiency for Kannada.
