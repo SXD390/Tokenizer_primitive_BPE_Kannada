@@ -21,7 +21,7 @@ The tokenizer learns meaningful subword units directly from text and provides ef
 
 
 ```
-![Demo](https://github.com/SXD390/Tokenizer_primitive_BPE_Kannada/blob/main/KN_BPE_Tokenizer_DEMO.gif)
+![Demo](https://github.com/SXD390/Tokenizer_primitive_BPE_Kannada/blob/main/DATA/util/KN_BPE_Tokenizer_DEMO.gif)
 ```
 
 ---
@@ -58,7 +58,7 @@ Use the tokenizer directly in your browser:
 👉 **Hugging Face Space:**
 
 ```
-https://huggingface.co/spaces/<your-username>/<your-space-name>
+https://huggingface.co/spaces/SXD390/BPE_KN_Tokenizer
 ```
 
 ### Example (Encoding)
